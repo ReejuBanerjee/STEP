@@ -5,7 +5,7 @@
  * and iterating through them with a for-each loop, eliminating hardcoded print
  * statements and improving modularity and reusability.
  *
- * @author Mallikarjun Shankar
+ * @author Reeju
  * @version 4
  */
 // Extend the user story 3 to further develop the OOPS Banner Application
