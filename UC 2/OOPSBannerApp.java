@@ -11,7 +11,7 @@
  * This extends a basic user story by adding visual presentation to a simple message output.
  * </p>
  *
- * @author Mallikarjun Shankar
+ * @author Reeju
  * @version 2
  */
 
