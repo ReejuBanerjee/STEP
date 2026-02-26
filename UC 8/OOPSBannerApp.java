@@ -6,7 +6,7 @@
  * and efficient manner. The application retrieves and displays the "OOPS" banner
  * using a HashMap thereby enhancing code organization and modularity.
  *
- * @author Mallikarjun Shankar
+ * @author Reeju
  * @version 8
  */
 import java.util.HashMap;
