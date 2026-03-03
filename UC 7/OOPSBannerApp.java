@@ -5,7 +5,7 @@
  * character-to-pattern mappings. The application retrieves and displays the "OOPS"
  * banner using these mappings. This approach enhances code organization and modularity.
  *
- * @author Mallikarjun Shankar
+ * @author Reeju
  * @version 7
  */
 
